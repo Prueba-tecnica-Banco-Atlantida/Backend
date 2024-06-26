@@ -18,7 +18,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 
    ```bash
    git clone https://github.com/Prueba-tecnica-Banco-Atlantida/Backend
-   cd BancoAtlantidaAPI
+   cd Backend
+
 
    
 ## Configuracion de la cadena de conexion
