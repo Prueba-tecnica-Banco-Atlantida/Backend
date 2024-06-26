@@ -4815,11 +4815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj",
+      "projectUniqueName": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj",
       "projectName": "BancoAtlantidaAPI",
-      "projectPath": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj",
+      "projectPath": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj",
       "packagesPath": "C:\\Users\\joel1\\.nuget\\packages\\",
-      "outputPath": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\obj\\",
+      "outputPath": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joel1\\AppData\\Roaming\\NuGet\\NuGet.Config",

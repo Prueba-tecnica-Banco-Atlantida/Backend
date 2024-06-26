@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\",
+  "WorkspaceRootPath": "D:\\carpetadeprueba\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\pruebatecnica\\bancoatlantidaapi\\bancoatlantidaapi\\controllers\\creditcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\carpetadeprueba\\backend\\bancoatlantidaapi\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|solutionrelative:bancoatlantidaapi\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\carpetadeprueba\\backend\\bancoatlantidaapi\\controllers\\creditcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|solutionrelative:bancoatlantidaapi\\controllers\\creditcardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\pruebatecnica\\bancoatlantidaapi\\bancoatlantidaapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\carpetadeprueba\\backend\\bancoatlantidaapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|solutionrelative:bancoatlantidaapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\pruebatecnica\\bancoatlantidaapi\\bancoatlantidaapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\carpetadeprueba\\backend\\bancoatlantidaapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|solutionrelative:bancoatlantidaapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\pruebatecnica\\bancoatlantidaapi\\bancoatlantidaapi\\models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\carpetadeprueba\\backend\\bancoatlantidaapi\\models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|solutionrelative:bancoatlantidaapi\\models\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|d:\\pruebatecnica\\bancoatlantidaapi\\bancoatlantidaapi\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15155D2F-9B95-4777-8781-6DEA043C0495}|BancoAtlantidaAPI\\BancoAtlantidaAPI.csproj|solutionrelative:bancoatlantidaapi\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 102,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "BancoAtlantidaAPI\\Models\\Transaction.cs",
-              "ToolTip": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Models\\Transaction.cs",
-              "RelativeToolTip": "BancoAtlantidaAPI\\Models\\Transaction.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:14:52.015Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -56,53 +43,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BancoAtlantidaAPI\\Data\\AplicationDbContext.cs",
+              "ToolTip": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "BancoAtlantidaAPI\\Data\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:53:19.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BancoAtlantidaAPI\\Models\\Transaction.cs",
+              "ToolTip": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Models\\Transaction.cs",
+              "RelativeToolTip": "BancoAtlantidaAPI\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:14:52.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CreditCardsController.cs",
-              "DocumentMoniker": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Controllers\\CreditCardsController.cs",
+              "DocumentMoniker": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Controllers\\CreditCardsController.cs",
               "RelativeDocumentMoniker": "BancoAtlantidaAPI\\Controllers\\CreditCardsController.cs",
-              "ToolTip": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Controllers\\CreditCardsController.cs",
+              "ToolTip": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Controllers\\CreditCardsController.cs",
               "RelativeToolTip": "BancoAtlantidaAPI\\Controllers\\CreditCardsController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAgwG8AAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T03:48:05.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AplicationDbContext.cs",
-              "DocumentMoniker": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Data\\AplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BancoAtlantidaAPI\\Data\\AplicationDbContext.cs",
-              "ToolTip": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Data\\AplicationDbContext.cs",
-              "RelativeToolTip": "BancoAtlantidaAPI\\Data\\AplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T03:53:19.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TransactionsController.cs",
-              "DocumentMoniker": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Controllers\\TransactionsController.cs",
+              "DocumentMoniker": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Controllers\\TransactionsController.cs",
               "RelativeDocumentMoniker": "BancoAtlantidaAPI\\Controllers\\TransactionsController.cs",
-              "ToolTip": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Controllers\\TransactionsController.cs",
               "RelativeToolTip": "BancoAtlantidaAPI\\Controllers\\TransactionsController.cs",
               "ViewState": "AQIAAF0AAAAAAAAAAAAowHIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T03:49:19.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T03:49:19.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CreditCard.cs",
-              "DocumentMoniker": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Models\\CreditCard.cs",
+              "DocumentMoniker": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Models\\CreditCard.cs",
               "RelativeDocumentMoniker": "BancoAtlantidaAPI\\Models\\CreditCard.cs",
-              "ToolTip": "D:\\PruebaTecnica\\BancoAtlantidaAPI\\BancoAtlantidaAPI\\Models\\CreditCard.cs",
+              "ToolTip": "D:\\carpetadeprueba\\Backend\\BancoAtlantidaAPI\\Models\\CreditCard.cs",
               "RelativeToolTip": "BancoAtlantidaAPI\\Models\\CreditCard.cs",
               "ViewState": "AQIAACEAAAAAAAAAAADwvysAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T03:41:58.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T03:41:58.786Z"
             }
           ]
         }
