@@ -51,6 +51,7 @@ Finalmente cambiar **userPassword** por la respectiva contraseña del usuario qu
 ```
 
 ## Restaurar Paquetes NuGet
+*En la terminal segurarse de estar en la carpeta \Backend\BancoAtlantidaAPI>*
 Dentro del proyecto abrir una terminal y ejecutar el siguiente comando:
 ```bash
 dotnet restore
