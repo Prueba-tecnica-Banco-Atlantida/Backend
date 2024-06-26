@@ -14,7 +14,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
 
 1. **Clonar el Repositorio**
 
-   Clona el repositorio desde GitHub a tu máquina local usando el siguiente comando:
+   Clonar el repositorio desde GitHub a tu máquina local usando el siguiente comando:
 
    ```bash
    git clone https://github.com/Prueba-tecnica-Banco-Atlantida/Backend
@@ -23,13 +23,13 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu máquina:
    
 ## Configuracion de la cadena de conexion
 Para este paso es recomendado utilizar [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/es/vs/)
-abrimos nuestro proyecto mediante el archivo BancoAtlantidaAPI.sln
+importar el proyecto a Visual Studio mediante el archivo BancoAtlantidaAPI.sln 
 
-Una vez abierto nuestro proyecto deberemos de configurar el archivo appsettings.json para que nos permita hacer la conexión entre la base de datos y nuestra API
+Una vez abierto el proyecto deberemos de configurar el archivo appsettings.json para que nos permita hacer la conexión entre la base de datos y nuestra API
 
-Tenemos que cambiar YourServerName por el nombre del servidor que tenemos en SQL Server Management Studio.
-Tambien userName por un nombre de usuario con permisos para crear y administrar contraseñas en SQL Server.
-Finalmente cambiamos userPassword por la respectiva contraseña del usuario que añadimos
+Tenemos que cambiar **YourServerName** por el nombre del servidor que tenemos en SQL Server Management Studio.
+Tambien **userName** por un nombre de usuario con permisos para crear y administrar contraseñas en SQL Server.
+Finalmente cambiar **userPassword** por la respectiva contraseña del usuario que añadimos
 
 
 
@@ -50,18 +50,19 @@ Finalmente cambiamos userPassword por la respectiva contraseña del usuario que 
 ```
 
 ## Restaurar Paquetes NuGet
-Dentro del proyecto abrimos una terminal y corremos el siguiente comando
-Este comando restaurará toda la paqueteria NuGet necesaria para que el proyecto funcione
-
+Dentro del proyecto abrir una terminal y ejecutar el siguiente comando:
 ```bash
 dotnet restore
 ```
+*Este comando restaurará toda la paqueteria NuGet necesaria para que el proyecto funcione*
+
+
 
 ## Crear la base de datos y migrar los modelos
 
 Primero deberemos de crear una migración, la cual permite cambiar el modelo de datos e implementar los cambios en producción mediante la actualización del esquema de la base de datos sin tener que quitar y volver a crear la base de datos
 
-NombreDeLaMigracion puede ser cualquier nombre
+**NombreDeLaMigracion** puede ser cualquier nombre
 
 ```bash
 dotnet ef migrations add NombreDeLaMigracion
@@ -74,7 +75,7 @@ dotnet ef database update
 *Este proceso se encarga de crear automaticamente la base de datos siempre y cuando la conexión sea correcta*
 
 ## Levantar el servicio
-Luego solo nos faltará levantar el proyecto para que este funcione
+Luego solo faltará levantar el proyecto para que este funcione
 
 ```bash
 dotnet run
